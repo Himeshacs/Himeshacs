@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himeshacs
-- 👀 I’m interested in open source development...
+- 👀 I’m interested in open source development
 - 💞️ I’m looking to collaborate on any amazing and interesting projects
 - 📫 you can reach out to me on linkedin | facebook 
 
